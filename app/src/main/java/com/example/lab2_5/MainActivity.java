@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.finBtn).setOnClickListener(this);
         findViewById(R.id.sweBtn).setOnClickListener(this);
         findViewById(R.id.surpriseBtn).setOnClickListener(this);
-
+        // Testi testi test
         //TextView nimiUI = findViewById(R.id.heippaLaatikko);
 
 
